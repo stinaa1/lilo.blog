@@ -8,7 +8,8 @@ image = ""
 description = ""
 footnotes = ""
 +++
-
+<html>
+<head>
 
 ##### Bioprodukte werden geschätzt und gefordert, doch was steckt hinter der Produktion? Wir haben zwei Bauernhöfe erforscht und bieten euch einen Einblick in die Biolandwirtschaft und ihre Sonnen- und Schattenseiten.  
 
