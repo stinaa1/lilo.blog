@@ -1,5 +1,5 @@
 +++
-title = "Biobauernhöfe Blicken in die Zukunft und erzählen von der Vergangenheit "
+title = "Biobauernhöfe blicken in die Zukunft und erzählen von der Vergangenheit "
 date = "2023-06-15"
 draft = false
 pinned = true
