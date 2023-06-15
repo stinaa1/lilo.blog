@@ -8,7 +8,7 @@ image = ""
 description = ""
 footnotes = ""
 +++
-Bio Produkte werden geschätzt und gefordert, doch was steckt hinter der Produktion? Wir haben zwei Bauernhöfe erforscht und bieten euch einen Einblick in die Biolandwirtschaft und ihre Sonnen- und Schattenseiten.  
+### Bio Produkte werden geschätzt und gefordert, doch was steckt hinter der Produktion? Wir haben zwei Bauernhöfe erforscht und bieten euch einen Einblick in die Biolandwirtschaft und ihre Sonnen- und Schattenseiten.  
 
 Die Sonnenstrahlen haben ihren Weg ins Tal gefunden, alles blüht und die Tiere freuen sich auf die saftig grünen Weiden. Es muhen die Kühe und manchmal hört man den Hofhund bellen. Von aussen unterscheiden sich die Biohöfe kaum von konventionellen Betrieben. 
 
