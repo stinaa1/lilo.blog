@@ -2,7 +2,7 @@
 title = "Biobauernhöfe blicken in die Zukunft und erzählen von der Vergangenheit "
 date = "2023-06-15"
 draft = false
-pinned = false
+pinned = true
 tags = []
 image = ""
 description = ""
