@@ -3,10 +3,10 @@ title = "Biobauernhöfe Blicken in die Zukunft und erzählen von der Vergangenhe
 date = "2023-01-01"
 draft = false
 pinned = false
-tags = ["Lilo", "Example"]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+tags = []
+image = ""
+description = ""
+footnotes = ""
 +++
 <!--StartFragment-->
 
