@@ -1,164 +1,81 @@
 +++
-title = "Example Post"
+title = "Biobauernhöfe Blicken in die Zukunft und erzählen von der Vergangenheit "
 date = "2023-01-01"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
+tags = ["Lilo", "Example"]
 image = "/img/default-image.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
+<!--StartFragment-->
 
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
+# Biobauernhöfe blicken in die Zukunft und erzählen von der Vergangenheit 
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+<!--EndFragment-->
 
-# Überschrift 1
+<!--StartFragment-->
 
-So sieht die grösste Überschrift aus (H1).
+##### Bioprodukte werden geschätzt und gefordert, doch was steckt hinter der Produktion? Wir haben zwei Bauernhöfe erforscht und bieten euch einen Einblick in die Biolandwirtschaft und ihre Sonnen- und Schattenseiten.  
 
-## Überschrift 2
+<!--EndFragment-->
 
-Dies ist die Überschrift 2 (H2).
+<!--StartFragment-->
 
-### Überschrift 3
+{{</lead>}}Die Sonnenstrahlen haben ihren Weg ins Tal gefunden, alles blüht und die Tiere freuen sich auf die saftig grünen Weiden. Es muhen die Kühe und manchmal hört man den Hofhund bellen. Von aussen unterscheiden sich die Biohöfe kaum von konventionellen Betrieben. {{</lead>}}
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
+<!--EndFragment-->
 
-#### Überschrift 4
+![ Ein neugieriges Kalb auf dem Hof Balmer-Müllener Quelle: Eigene Quelle](bild-1.jpg)
 
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
+<!--StartFragment-->
 
-## Weitere Textformatierungen
+Zwei verschiedene Bauernhöfe, einer mitten im sonnigen Dorf Habkern von Ueli Brunner und einer etwas abgelegen bei Interlaken Ost an der Aare, der im Besitz von Ueli Balmer ist. Beide betreiben einen Biohof und beide produzieren hauptsächlich Milch. In Habkern stehen die Kühe gerade im Stall und werden gemolken, die Melkmaschine surrt im Hintergrund. Draussen toben sich mehrere Jungrinder auf der Wiese aus. In Interlaken sind die Kühe am Grasen auf der Weide. Die Jungtiere strecken neugierig ihre Köpfe aus dem Stall, doch eine unruhige Bewegung und schon hüpfen sie zurück. 
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
+<!--EndFragment-->
 
-### Fett und Kursiv
+<!--StartFragment-->
 
-Natürlich gibt es auch **fett** und _kursiv_.
+Bio ist eine Art von Landwirtschaft und ein Label, das Höfe und Produkte zertifiziert. Die Idee von Bio ist, in Kreisläufen zu arbeiten und somit nachhaltige, gesunde, lokale und hochwertige Produkte zu produzieren. Der Fokus liegt dabei nicht nur auf der Produktion von Konsumgütern, sondern es geht dabei genauso um Tierwohl, die Pflanzen, die Biodiversität und die Erhaltung der Schweizer Böden. Diese Ziele werden in den Richtlinien von Bio Suisse definiert, welche meist strenger sind als die Richtlinien für konventionelle Höfe. Beispielsweise sind für Biohöfe bestimmte Düngemittel verboten, was eine manuelle Entfernung von Blaken erfordert. Weiter ist es auch verboten, mit bestimmten Pestiziden die Kartoffeln gegen den Kartoffelkäfer zu besprühen. Ein Hof muss die Vorschriften von Bio Suisse einhalten, was auch jährlich kontrolliert wird, damit der Hof die Bio-Zertifizierung erhält. Ueli Balmer verdeutlicht ein Teil des Kontrollsystems so: “Im Bio müssen wir nicht einen höheren Prozentsatz an Ökofläche haben, aber die Vielfältigkeit ist wichtig. Also, dass man zum Beispiel auch Vogelhäuser aufstellt, dass man Nistmöglichkeiten hat auf dem Betrieb. Alles dies sind Kriterien, die bei Bio mit Punkten belohnt werden.” Bio fokussiert sich also auf die Interessen von Natur, Tier und Mensch.
 
-### Links
+<!--EndFragment-->
 
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
+<!--StartFragment-->
 
-### Zitate
+Ein grosses Thema ist natürlich der Klimawandel. Durch den Klimawandel werden viele Änderungen nötig, besonders in Bezug auf die Nachhaltigkeit. Von Bio-Landwirtschaft wird ein höherer Standard erwartet als von konventioneller Landwirtschaft. Da auch in der konventionellen Landwirtschaft die Vorschriften sich immer mehr auf Nachhaltigkeit fokussieren, werden die Bio-Vorschriften ebenfalls strenger werden. Ein Kernthema der Nachhaltigkeit ist der Fleischkonsum. Es ist ein umstrittenes Thema, jedoch meinten beide Landwirte, dass der Konsum vermutlich sinken wird. Ein sinkender Fleischkonsum wird auf die gesamte Landwirtschaft und auf sie als Milchproduzenten einen Einfluss haben, doch wie genau, wird nur die Zukunft zeigen. Ewas wichtiges, besonders in einem solch kleinen Land wie der Schweiz, ist die Selbstversorgung. Ein Selbstversorgungsgrad von 100 Prozent ist, wenn ein Land genug produziert, um die eigene Bevölkerung komplett selbst zu ernähren. In der Schweiz jedoch liegt der Selbstversorgungsgrad nur bei etwa 50 Prozent aller Nahrungsmitteln. Ein Fokus in Zukunft sollte also sein, den Selbstversorgungsgrad zu erhöhen. Ein höherer Selbstversorgungsgrad gibt Sicherheit im Falle einer Krise, weil man weniger abhängig ist vom globalen Markt. Weiterhin müsste auch weniger importiert werden, was zu weniger Emissionen führt. 
 
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
+<!--EndFragment-->
 
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
+![Auszeichnungen für Milchqualität und für Kühe auf dem Hof von Ueli Brunner Quelle: Eigene Quelle](bild-2.jpg)
 
-### Liste
 
-So sieht eine Liste aus:
 
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
+<!--StartFragment-->
 
-### Nummerierte Liste
+Bio wird immer mehr gefordert, jedoch liegt der Marktanteil bei nur 11 Prozent. Nur etwa 20 Prozent der Schweizer kaufen häufig Bio-Produkte. Ein Bauer kann kein Produkt verkaufen, wofür es keine Nachfrage gibt. Alle würden nach Bio schreien, meint der Bauer Balmer-Müllener aus Interlaken, aber nur die Wenigsten würden tatsächlich Bio einkaufen. Das heisst, wer mehr Bio-Produkte fordere, solle auch mehr Bioprodukte kaufen, sonst würde sich nichts ändern.  “lm vorherigen Jahr sind viele Betriebe auf Bio umgestiegen», erklärt Ueli Brunner nachdenklich «Daraufhin habe ich ein Schreiben von meinem Milchabnehmer erhalten, in dem stand, dass den neuen Biobetrieben die Milch nicht als Bio abgenommen wird, sondern noch weiterhin als konventionell, weil ein Überangebot herrscht und man das Bioprodukt nicht mehr absetzen kann.” Der generelle Trend von Bio in Konsum, Marktanteil und Anzahl Höfen ist definitiv steigend, wenn in den letzten Jahren auch nur leicht. 
 
-Und so eine nummerierte Liste:
+<!--EndFragment-->
 
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
+<!--StartFragment-->
 
-## Bilder
+Auf sogenannten Knospe-Höfen müssen die Tiere gemäss der RAUS-Verordnung regelmässig Auslauf erhalten. Konkret heisst das, während der Vegetationszeit mindestens 26-mal im Monat auf der Weide und während dem Winter 13-mal im Monat im Laufhof. Wenn ein Stall Anbindehaltung hat, wird umso mehr Wert auf regelmässigen Auslauf gelegt.
 
-Bilder werden mit dem `+`-Symbol eingefügt.
+<!--EndFragment-->
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
+<!--StartFragment-->
 
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
+Bio Suisse möchte möglichst gesunde Tiere unter ihrem Label haben, dies soll mit möglichst wenig Medikamenten, viel Auslauf und Biofütterung erzielt werden. Obwohl der Einsatz von Antibiotika so viel wie möglich reduziert wird, ist der Einsatz auf Biobauernhöfen nicht verboten. Jedoch dürfen Antibiotika nur als Notfallmedikament eingesetzt werden, aber strenge Vorschriften gelten trotzdem. Wenn ein Tier mehr als drei Behandlungen pro Kalenderjahr hatte, verliert dieses den Biostatus. Bei Tieren, die jünger als ein Jahr sind, ist nur eine Behandlung erlaubt. Das ist nur eine der vielen Einschränkungen, welche Bio Suisse vertritt. Die Meinungen darüber unterscheiden sich stark. Schliesslich soll das Tier möglichst unberührt sein, da alles, was im Tier war, auch in dessen Milch oder Fleisch wiedergefunden werden kann. Aber ist uns das Bio Label mehr wert als die Behandlung kranker Tiere?
 
-### Tipps zu Bildgrössen
+<!--EndFragment-->
 
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
+<!--StartFragment-->
 
-### Bildunterschrift
+Die Schweiz hat viele verschiedene Regionen und das Klima variiert, von den Gipfeln der Schweizeralpen bis ins Mittelland. Das hat verschiedene Auswirkungen auf die Landwirtschaft. Die Weiden sind oft unzugänglicher in den Bergen als in flacheren Gebieten, mit den Worten von Ueli Brunner: “Es ist mehr Man oder Woman power gefragt als talwärts.” Das Wetter und das Klima sind ganz anders. Im Oberland ist die Vegetationszeit kürzer, durch die höhere Lage und die tieferen Temperaturen. Die Zusammensetzung des Grases und Heu ist anders, da andere Pflanzen, Gräser und Kräuter wachsen. Im Mitteland ist der Ackerbau viel leichter zu betreiben als in den Alpen.  Schon nur das Terrain, das viel flacher und zugänglicher ist, aber auch das Klima ist angepasster und das Wachstumsfenster ist grösser. Das heisst aber nicht, dass die Landwirtschaft in den Alpen keine Zukunft hat, ganz im Gegenteil. Für das Vieh sind weder die kälteren Temperaturen noch die steilen Hänge ein Problem und der Ackerbau, ist auch ertragreich.
 
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
+<!--EndFragment-->
 
-## Horizontale Linie
+<!--StartFragment-->
 
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
+Obwohl man von aussen den Unterschied von Bio zu Konventionell nicht direkt sieht, ist er doch entscheidend. Sie hilft uns mit der Natur und deren Tiere im Einklang zu bleiben. Die Natur hilft uns, und nun helfen wir ihr. 
 
----
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
-`{{</*/lead*/>}}`
-
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
+<!--EndFragment-->
