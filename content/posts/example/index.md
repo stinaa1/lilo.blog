@@ -8,11 +8,11 @@ image = ""
 description = ""
 footnotes = ""
 +++
-### Bio Produkte werden geschätzt und gefordert, doch was steckt hinter der Produktion? Wir haben zwei Bauernhöfe erforscht und bieten euch einen Einblick in die Biolandwirtschaft und ihre Sonnen- und Schattenseiten.  
-
-Die Sonnenstrahlen haben ihren Weg ins Tal gefunden, alles blüht und die Tiere freuen sich auf die saftig grünen Weiden. Es muhen die Kühe und manchmal hört man den Hofhund bellen. Von aussen unterscheiden sich die Biohöfe kaum von konventionellen Betrieben. 
+#### Bio Produkte werden geschätzt und gefordert, doch was steckt hinter der Produktion? Wir haben zwei Bauernhöfe erforscht und bieten euch einen Einblick in die Biolandwirtschaft und ihre Sonnen- und Schattenseiten.  
 
 ![Ein neugieriges Kalb auf dem Hof Balmer-Müllener Quelle: Eigene Quelle](bild-1.jpg)
+
+Die Sonnenstrahlen haben ihren Weg ins Tal gefunden, alles blüht und die Tiere freuen sich auf die saftig grünen Weiden. Es muhen die Kühe und manchmal hört man den Hofhund bellen. Von aussen unterscheiden sich die Biohöfe kaum von konventionellen Betrieben. 
 
 Zwei verschiedene Bauernhöfe, einer mitten im sonnigen Dorf Habkern von Ueli Brunner und einer etwas abgelegen bei Interlaken Ost an der Aare, der im Besitz von Ueli Balmer ist. Beide betreiben einen Biohof und beide produzieren hauptsächlich Milch. In Habkern stehen die Kühe gerade im Stall und werden gemolken, die Melkmaschine surrt im Hintergrund. Draussen toben sich mehrere Jungrinder auf der Wiese aus. In Interlaken sind die Kühe am Grasen auf der Weide. Die Jungtiere strecken neugierig ihre Köpfe aus dem Stall, doch eine unruhige Bewegung und schon hüpfen sie zurück. 
 
