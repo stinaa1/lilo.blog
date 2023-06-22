@@ -10,7 +10,7 @@ footnotes = ""
 +++
 #### Bio Produkte werden geschätzt und gefordert, doch was steckt hinter der Produktion? Wir haben zwei Bauernhöfe erforscht und bieten euch einen Einblick in die Biolandwirtschaft und ihre Sonnen- und Schattenseiten.  
 
-![Ein neugieriges Kalb auf dem Hof Balmer-Müllener Quelle: Eigene Quelle](bild-1.jpg)
+![Ein neugieriges Kalb auf dem Hof Balmer-Müllener (Quelle: Eigene)](bild-1.jpg)
 
 Die Sonnenstrahlen haben ihren Weg ins Tal gefunden, alles blüht und die Tiere freuen sich auf die saftig grünen Weiden. Es muhen die Kühe und manchmal hört man den Hofhund bellen. Von aussen unterscheiden sich die Biohöfe kaum von konventionellen Betrieben. 
 
@@ -20,7 +20,7 @@ Bio ist eine Art von Landwirtschaft und ein Label, das Höfe und Produkte zertif
 
 Ein grosses Thema ist natürlich der Klimawandel. Durch den Klimawandel werden viele Änderungen nötig, besonders in Bezug auf die Nachhaltigkeit. Von Bio-Landwirtschaft wird ein höherer Standard erwartet als von konventioneller Landwirtschaft. Da auch in der konventionellen Landwirtschaft die Vorschriften sich immer mehr auf Nachhaltigkeit fokussieren, werden die Bio-Vorschriften ebenfalls strenger werden. Ein Kernthema der Nachhaltigkeit ist der Fleischkonsum. Es ist ein umstrittenes Thema, jedoch meinten beide Landwirte, dass der Konsum vermutlich sinken wird. Ein sinkender Fleischkonsum wird auf die gesamte Landwirtschaft und auf sie als Milchproduzenten einen Einfluss haben, doch wie genau, wird nur die Zukunft zeigen. Ewas wichtiges, besonders in einem solch kleinen Land wie der Schweiz, ist die Selbstversorgung. Ein Selbstversorgungsgrad von 100 Prozent ist, wenn ein Land genug produziert, um die eigene Bevölkerung komplett selbst zu ernähren. In der Schweiz jedoch liegt der Selbstversorgungsgrad nur bei etwa 50 Prozent aller Nahrungsmitteln. Ein Fokus in Zukunft sollte also sein, den Selbstversorgungsgrad zu erhöhen. Ein höherer Selbstversorgungsgrad gibt Sicherheit im Falle einer Krise, weil man weniger abhängig ist vom globalen Markt. Weiterhin müsste auch weniger importiert werden, was zu weniger Emissionen führt. 
 
-![Auszeichnungen für Milchqualität und für Kühe auf dem Hof von Ueli Brunner Quelle: Eigene Quelle](bild-2.jpg)
+![Auszeichnungen für Milchqualität und für Kühe auf dem Hof von Ueli Brunner (Quelle: Eigene)](bild-2.jpg)
 
 Bio wird immer mehr gefordert, jedoch liegt der Marktanteil bei nur 11 Prozent. Nur etwa 20 Prozent der Schweizer kaufen häufig Bio-Produkte. Ein Bauer kann kein Produkt verkaufen, wofür es keine Nachfrage gibt. Alle würden nach Bio schreien, meint der Bauer Balmer-Müllener aus Interlaken, aber nur die Wenigsten würden tatsächlich Bio einkaufen. Das heisst, wer mehr Bio-Produkte fordere, solle auch mehr Bioprodukte kaufen, sonst würde sich nichts ändern.  “lm vorherigen Jahr sind viele Betriebe auf Bio umgestiegen», erklärt Ueli Brunner nachdenklich «Daraufhin habe ich ein Schreiben von meinem Milchabnehmer erhalten, in dem stand, dass den neuen Biobetrieben die Milch nicht als Bio abgenommen wird, sondern noch weiterhin als konventionell, weil ein Überangebot herrscht und man das Bioprodukt nicht mehr absetzen kann.” Der generelle Trend von Bio in Konsum, Marktanteil und Anzahl Höfen ist definitiv steigend, wenn in den letzten Jahren auch nur leicht. 
 
